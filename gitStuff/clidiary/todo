@@ -1,0 +1,64 @@
+days log
+
+features:
+* encryption
+* organised directory
+* mark and list as fav
+* display the preview list of diaries
+* online backup
+* find for perticular word or sentence
+* goal reacher 
+* analyze the statastics
+* give a montly report
+* random colors for better looking
+* password manager
+
+days log
+
+features:
+* encryption
+* organised directory
+* mark and list as fav
+* display the preview list of diaries
+* online backup
+* find for perticular word or sentence
+* goal reacher 
+* analyze the statastics
+* give a montly report
+* random colors for better looking
+* password manager
+
+design:
+* what was your todays goal
+* write your feelings 
+* how was your day in one sentence
+* give the percentage of goal reached
+
+procedure to do:
+* basic bash script to select the  options and switch them accordingly
+* using python for encryption and organisation of directories
+
+options:
+* -a	add todays diary
+* -v    to preview all the logs
+	--date   to view that days diary
+     	--fav     to view fav
+* -b 	backup
+
+design:
+* what was your todays goal
+* write your feelings 
+* how was your day in one sentence
+* give the percentage of goal reached
+
+procedure to do:
+* basic bash script to select the  options and switch them accordingly
+* using python for encryption and organisation of directories
+
+options:
+* -a	add todays diary
+* -v    to preview all the logs
+	--date   to view that days diary
+     	--fav     to view fav
+* -b 	backup
+

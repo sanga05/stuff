@@ -1,0 +1,13 @@
+case "$1" in
+ 
+    -a) python3 add.py ;; 
+    
+    -v) python3 view.py $2;;
+ 
+    -c) echo "-c option passed" ;;
+ 
+    *) echo "Option $1 not recognized" ;; # In case you typed a different option other than a,b,c
+ 
+esac
+
+ 
